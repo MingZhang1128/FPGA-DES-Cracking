@@ -1,8 +1,5 @@
 # DES Cracking machine
 
-## Team members:
-* Alessandro Tempia Calvino, tempiaa@eurecom.fr
-* Pietro Mambelli, mambelli@eurecom.fr
 
 #### Contents:
 
